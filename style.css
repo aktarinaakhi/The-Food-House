@@ -1,0 +1,21 @@
+header {
+  background-color: #23180d;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+.nav-link {
+  color: white;
+}
+#order-now {
+  background-color: tomato;
+  border-radius: 10px;
+}
+main {
+  background-color: #2d2013;
+  height: 3000px;
+}
+hr {
+  color: white;
+  padding: 1px;
+}
